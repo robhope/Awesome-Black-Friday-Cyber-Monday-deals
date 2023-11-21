@@ -100,6 +100,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [Nail A Coding Interview: Six-Step Mental Framework, Second Edition](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers | 50% with the code BLACKFRIDAY2023. Coupon Code: BLACKFRIDAY2023 | 11-21-2023 - 11-30-2023 |
 | 3 | [Zero to Sold](https://bootstrappedfounder.gumroad.com/l/zerotosold/BFF) by Arvid Kahl | An actionable no-fluff guide to bootstrapping a business. Your manual from "I have no idea" to "I just sold my SaaS business." | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
 | 4 | [The Embedded Entrepreneur](https://bootstrappedfounder.gumroad.com/l/embedded-entrepreneur/BFF) by Arvid Kahl | Your practical guide to finding the right audience and building the product they need. Validate your ideas, and build a legacy. | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
+| 5 | [Landing Page Hot Tips](https://robhope.gumroad.com/l/hottips/bf2023) by Rob Hope | 100 digestible lessons to implement into your Landing Pages available in Ebook, rich-media book, Notion book, audiobook. | 60% off (save $30 from $49 = $19) with code **BF2023**. Coupon Code: BF2023 | 11-21-2023 - 11-30-2023 |
 
 ## Programming Books
 
